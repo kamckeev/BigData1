@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is a test
+=======
+This is a test. 
+Testing to push back 
+>>>>>>> refs/remotes/origin/main
