@@ -1,1 +1,3 @@
-*.ipynb_checkpoints
+*ipynb_checkpoints
+EDU01a.csv
+EDU01b.csv
