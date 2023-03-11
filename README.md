@@ -1,10 +1,11 @@
-# BigData1
-Function writing and basic linear regression (Project 1, BigData590)
+# BigData1 (ST 590 at NCSU, Spring 2023)
+
+## Project 1
+Function writing and basic linear regression
 by Kim McKeever and Maddy Bursell
 
-Going to use Good programming practices! (see wolfware?)
-First project for Big Data class
-Willl read in didfferent data sets
-will then simple linear regression on them and test the validity of the functions with some algorithms
-- Testing data with the training data
-- Better details to come soon
+We read in different data sets then write functions to preform simple linear regression on the data. We run some prediction models and test the validity of the functions with some algorithms and cross-validation. 
+
+## Project 2
+Exploring big data sets and creating statistcal summaries for the data.
+by Kim McKeever, Maddy Bursell, Jihan Chen
