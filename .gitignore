@@ -1,10 +1,16 @@
 *ipynb_checkpoints
-EDU01a.csv
-EDU01b.csv
+*.csv
+*dev.ipynb
+*.jupyter
+*.ipython
+*.local
+*.cache
+
+northwind.sqlite
 spyder_file.py
 test.txt
 project_functions.ipynb
 Project1_dev-Copy1.ipynb
 Project1_Official_alt.ipynb
-Project2_dev.ipynb
+
 
