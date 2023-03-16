@@ -5,12 +5,11 @@
 *.ipython
 *.local
 *.cache
+*Project1_dev
 
 northwind.sqlite
 spyder_file.py
 test.txt
-project_functions.ipynb
-Project1_dev-Copy1.ipynb
-Project1_Official_alt.ipynb
+Project2_part2.ipynb
 
 
