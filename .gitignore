@@ -6,6 +6,7 @@
 *.local
 *.cache
 *Project1_dev
+*Project2_dev
 
 northwind.sqlite
 spyder_file.py
